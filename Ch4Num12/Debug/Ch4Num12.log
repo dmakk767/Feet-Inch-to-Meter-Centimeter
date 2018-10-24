@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Ch4Num12.cpp
+c:\users\dmakk767\documents\flash drive stuff\c++\ch 4\ch4num4\ch4num12\ch4num12.cpp(56): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  LINK : C:\Users\DMAKK767\Documents\FLash drive Stuff\C++\Ch 4\Ch4Num4\Debug\Ch4Num12.exe not found or not built by the last incremental link; performing full link
+  Ch4Num12.vcxproj -> C:\Users\DMAKK767\Documents\FLash drive Stuff\C++\Ch 4\Ch4Num4\Debug\Ch4Num12.exe
